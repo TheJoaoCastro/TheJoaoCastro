@@ -7,3 +7,5 @@
 ## 2024
 - MVC architecture
 - First Web App monolithic with Node.js and Handlebars
+- Java and Spring Boot
+- First Web App REST with Spring and Angular
